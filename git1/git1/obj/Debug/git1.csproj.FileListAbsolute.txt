@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\git1\git1\bin\Debug\git1.exe.config
+C:\Users\ACER\source\repos\git1\git1\bin\Debug\git1.exe
+C:\Users\ACER\source\repos\git1\git1\bin\Debug\git1.pdb
+C:\Users\ACER\source\repos\git1\git1\obj\Debug\git1.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\git1\git1\obj\Debug\git1.Form1.resources
+C:\Users\ACER\source\repos\git1\git1\obj\Debug\git1.Properties.Resources.resources
+C:\Users\ACER\source\repos\git1\git1\obj\Debug\git1.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\git1\git1\obj\Debug\git1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\git1\git1\obj\Debug\git1.exe
+C:\Users\ACER\source\repos\git1\git1\obj\Debug\git1.pdb
+C:\Users\ACER\source\repos\git1\git1\obj\Debug\git1.Form2.resources
